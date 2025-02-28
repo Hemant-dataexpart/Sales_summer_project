@@ -62,4 +62,4 @@ A map highlighting the profit distribution across various states and provinces, 
 This dashboard offers a robust and detailed analysis of sales performance, making it an essential tool for tracking and optimizing sales strategies.
 Dashboard Interaction View Dashboard
 
-Dashboard_Page-1
+Sales_summey.jpg 
